@@ -15,6 +15,9 @@ import os
 import urllib3
 
 class Scrapper:
-    self.__init__(self,link):
+    def __init__(self,link):
+        self.link = link
+    
+        
 
 
